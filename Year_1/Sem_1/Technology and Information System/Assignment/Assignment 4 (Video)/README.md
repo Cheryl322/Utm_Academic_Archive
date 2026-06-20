@@ -1,6 +1,6 @@
 ## 🎬 Industry Engagement: UTM Digital Site Visit
 
-> 🔗 **Artifact Link:** [View My Video Review Assignment Here](https://youtu.be/bFwAtcFAptc)
+> 🔗 **Video Link:** [View My Video Review Assignment Here](https://youtu.be/bFwAtcFAptc)
 
 ---
 
