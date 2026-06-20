@@ -1,2 +1,0 @@
-This course for me is exciting because I learned many from industry visits, industry talks, PC assembly and design thinking. These talks and visits are very helpful to us and motivate our future career. First and foremost, I have learned what technology the company uses in the ICT sector, how fast the technology is going and how this technology helps people in daily life. I also learned that soft skills are more important than hard skills when working. So, in future, I will improve my soft skills to make me more successful in any career.
-

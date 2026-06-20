@@ -1,7 +1,0 @@
-<a href="https://youtu.be/bFwAtcFAptc">Here is the link for Video Assignment
-</a> 
-
-
-## Reflection
-I had the opportunity to visit UTM Digital and they gave us a talk about what UTM Digital does and provided us with an enriching and meaningful experience. The sessions included insights into Agile methodology, Scrum framework, and tips for system development. Overall, the talk gave us a good understanding of the digital world, promoting a responsible and human-centric approach to using technology. The staff has presented to us the cybersecurity solutions, backup plans for power outages, and instructional technology utilized by UTM. We also went to Bilik TM, where wireless sharing and conferencing technology from Huawei IdeaHub has been installed. Because of its comfortable writing experience, automatic tracking and concentration on the speaker, and Windows Platform extension, it is a productivity tool for smart offices.
-

@@ -1,3 +1,0 @@
-## Reflection
-I learned from this talk that data engineers need both soft and hard skill sets. This talk also provided us with some other concepts, such as how data engineers would evolve in the future and the daily tasks of their profession. Furthermore, PPG also recommended that we join some short-term online classes on Linkedin to get more professional certificates to improve ourselves. We learned how the hiring process works in a company and how to write a perfect resume/CV to get the jobs easily. A career in Information Communication Technology (ICT) is essential to play a meaningful role in the industry because It enables workers to stimulate innovation, increase productivity, and protect data security.
-
