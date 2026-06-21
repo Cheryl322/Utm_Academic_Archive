@@ -1,0 +1,3 @@
+Mee Goreng,9.0,AVAILABLE
+Char Kuey Teow,11.0,AVAILABLE
+Laksa,10.0,UNAVAILABLE

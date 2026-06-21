@@ -1,0 +1,7 @@
+boss,1111,admin
+rick,1234,customer
+manager,7777,admin
+aaron,6969,customer
+cheryl,1234,customer
+admin1,8888,admin
+yuhin,1234,customer
